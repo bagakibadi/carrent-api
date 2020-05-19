@@ -31,7 +31,7 @@
 ## Installation
 ### Clone
 ```
-$ git clone https://github.com/HiRahmat-Dev/carrent-api.git
+$ git clone https://github.com/bagakibadi/carrent-api.git
 $ cd carrent-api
 $ npm install
 ```
@@ -144,13 +144,19 @@ Fork the Project
 4. Open a Pull Request
 
 ## Related Project
-* [`Frontend-Carrent-VueJS`](https://github.com/HiRahmat-Dev/carrent-vuejs)
-* [`Backend-Carrent`](https://github.com/HiRahmat-Dev/carrent-api)
+* [`Frontend-Carrent-VueJS`](https://github.com/bagakibadi/carrent-vuejs)
+* [`Backend-Carrent`](https://github.com/bagakibadi/carrent-api)
 
 ## Contributors
 <center>
   <table>
     <tr>
+      <td align="center">
+        <a href="https://github.com/bagakibadi/">
+          <img width="150" src="https://avatars0.githubusercontent.com/u/31173796?s=460&v=4" alt="Bagus"><br/>
+          <b>Bagus Nur Solayman</b>
+        </a>
+      </td>
       <td align="center">
         <a href="https://github.com/HiRahmat-Dev/">
           <img width="150" src="https://avatars2.githubusercontent.com/u/55150659?s=460&u=c7171bb4128787c303efdce0d62bc86289f1211b&v=4" alt="Rahmat Hidayatullah"><br/>
@@ -184,3 +190,7 @@ Fork the Project
     </tr>
   </table>
 </center>
+
+## Contact
+
+MyEmail : solaybagus2@gmail.com
